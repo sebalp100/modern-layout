@@ -223,9 +223,9 @@ export const pricing = [
     description: "Advanced AI chatbot, priority support, analytics dashboard",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
+      "An advanced AI chatbot that can use complex queries",
       "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Ability to explore the app and its features without any cost",
     ],
   },
   {
